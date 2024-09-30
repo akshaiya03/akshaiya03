@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Akshaiya
 
 Pre-Final year student @ Rajalakshmi Engineering College
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 👀 I'm Interested in Web development                                               
 - 🌱 I’m currently learning DSA
 - 😄 Pronoun:Innovator
@@ -15,6 +14,6 @@ Pre-Final year student @ Rajalakshmi Engineering College
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Akshaiya003?ext=contest&theme=dark)](https://leetcode.com/u/Akshaiya003/)
+
 
 
